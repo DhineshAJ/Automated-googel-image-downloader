@@ -1,4 +1,4 @@
-# Automated-googel-image-downloader
+# Automated-google-image-downloader
 This python program can be used to download bulk images from google image search.
 This program will be useful to download images for training Machine Learning models.
 
