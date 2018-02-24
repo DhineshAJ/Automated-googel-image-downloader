@@ -6,6 +6,6 @@ This program will be useful to download images for training Mahine Learning mode
 geckodriver.exe should be kept in the same folder along with the program.
 
 </br>
-**Caution: This program is for learning purpose only. Be aware of Copy righted images**
+** Caution: This program is for learning purpose only. Be aware of Copy righted images **
 
 
